@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1725389804418" clover="3.2.0">
-  <project timestamp="1725389804418" name="All files">
-    <metrics statements="35" coveredstatements="35" conditionals="6" coveredconditionals="5" methods="15" coveredmethods="15" elements="56" coveredelements="55" complexity="0" loc="35" ncloc="35" packages="1" files="1" classes="1"/>
+<coverage generated="1725391498416" clover="3.2.0">
+  <project timestamp="1725391498416" name="All files">
+    <metrics statements="35" coveredstatements="35" conditionals="6" coveredconditionals="6" methods="15" coveredmethods="15" elements="56" coveredelements="56" complexity="0" loc="35" ncloc="35" packages="1" files="1" classes="1"/>
     <file name="banco.ts" path="/home/darwin/Documentos/Estudos/JeanNesi-Turma01-Trabalho01/src/banco.ts">
-      <metrics statements="35" coveredstatements="35" conditionals="6" coveredconditionals="5" methods="15" coveredmethods="15"/>
+      <metrics statements="35" coveredstatements="35" conditionals="6" coveredconditionals="6" methods="15" coveredmethods="15"/>
       <line num="8" count="1" type="stmt"/>
       <line num="15" count="38" type="stmt"/>
       <line num="16" count="38" type="stmt"/>

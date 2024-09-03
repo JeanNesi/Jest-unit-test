@@ -9,7 +9,7 @@ describe("Testes da classe Banco", () => {
 
   beforeEach(() => {
     conta = new Banco(nomeConta, 1000);
-    contaDestino = new Banco(nomeContaDestino, 0);
+    contaDestino = new Banco(nomeContaDestino);
   });
 
   // #region Obter
