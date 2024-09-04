@@ -19,3 +19,10 @@ Todos os artefatos de execução podem ser encontrados em `./coverage`. Se você
 
 - `src`: código fonte
 - `test`: arquivos de testes unitários
+
+## Typescript
+
+O projeto está em TypeScript, então os arquivos devem seguir o padrão `.ts`
+
+- `[classe].ts`: arquivos de classe
+- `[classe].test.ts`: arquivos de testes unitários
