@@ -4,21 +4,18 @@
 
 [![Build and Tests](https://github.com/JeanNesi/JeanNesi-Turma01-Trabalho01/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/JeanNesi/JeanNesi-Turma01-Trabalho01/actions/workflows/node.js.yml)
 
-## Getting Started
+## Começando
 
-In order to execute this project you must follow the steps below:
+Para executar este projeto, você deve seguir os passos abaixo:
 
-1. Install [Node JS](https://nodejs.org/) (version >= 20.x)
-1. Run `npm install` to install all the project dependencies
-1. Run `npm run test` to execute the entire test suite
-1. Run `npm run coverage` to execute the entire test suite with coverage
+1. Instale o [Node JS](https://nodejs.org/) (versão >= 20.x)
+1. Execute `npm install` para instalar todas as dependências do projeto
+1. Execute `npm run test` para executar toda a suíte de testes
+1. Execute `npm run coverage` para executar toda a suíte de testes com cobertura
 
-All execution artifacts can be found in `./coverage`, if you want to remove these files run `npm run clean`.
+Todos os artefatos de execução podem ser encontrados em `./coverage`. Se você quiser remover esses arquivos, execute `npm run clean`.
 
-## Project Structure
+## Estrutura do Projeto
 
-</br>
-<ul>
-    <li>src: source code</li>
-    <li>test: unit test files</li>
-</ul>
+- `src`: código fonte
+- `test`: arquivos de testes unitários
